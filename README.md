@@ -2,9 +2,9 @@
 
 The Black Ops site is the official platform where users can access one of the most secure and privacy-focused darknet markets in 2025. Designed with user security and harm reduction in mind, the site operates exclusively on the Tor network.
  
-[<img src="/misc/big.webp" width="200">](http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion)
+[<img src="/misc/big.webp" width="200">](http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion)
 
-<a href="http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion"><img src="/misc/right.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
+<a href="http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion"><img src="/misc/right.webp" alt="Verified blackops dark web" style="max-width: 100%;"></a>
  
 Key Features of the Black Ops Site
 
@@ -25,4 +25,6 @@ Security Recommendations
 - Verify the site’s PGP signatures.
 - Avoid phishing sites by only using the official link.
 
-Visit the official Black Ops site here: **http://hfptpr46ubwvzyrsja4r5ylpigfnmvjiw3ugdgfxsar6ryhtkmjm67ad.onion**
+Visit the official Black Ops site here: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
+
+Update:  Thursday 18 September 2025
