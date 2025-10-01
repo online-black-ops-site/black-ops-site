@@ -27,4 +27,6 @@ Security Recommendations
 
 Visit the official Black Ops site here: **http://blackopsaax7ieeljectvi3vn3a5m2wfssylcdqaswrvlbeptwzv5oid.onion**
 
-Update:  Thursday 18 September 2025
+
+
+Update:  Wednesday 01 October 2025
